@@ -1,5 +1,7 @@
 # ELEC70143 – Machine Learning Assignment 2025/2026
 
+Lecturer: Dr Andrew Duncan
+
 This is a two-week assignment (~20 hours expected effort). Focus on **reasoning**, interpretation, and clear figures rather than extensive code development. Many of the questions are open-ended: there will be multiple valid approaches to them. Marks will be allocated based on the individual merits of the approach you adopt, rather than the correct choice of any specific strategy.
 
 **Submission:** a PDF file with clear section headings matching the question numbers. Figures and tables must be clearly explained and interpretable. You may use a Jupyter notebook and convert it to PDF at the end.
